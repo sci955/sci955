@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T14:40:04.709Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" version="18.0.2" etag="KjX0yKxw48xIcT75ywPZ" type="github"><diagram id="ZdoyjoGDnas0Z9Y0Mtbr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-10T15:17:08.711Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="r2xas5p_jT4ryY-ZLS74" version="18.0.2" type="github">
+  <diagram id="ZdoyjoGDnas0Z9Y0Mtbr" name="Page-1">
+    <mxGraphModel dx="1240" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="ZD7YUeJZHVXYP3sHLRNM-3" target="ZD7YUeJZHVXYP3sHLRNM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-3" value="mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;" edge="1" parent="1" source="ZD7YUeJZHVXYP3sHLRNM-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;pelanggan&lt;br&gt;&amp;nbsp;datang ke cafe&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="25" y="150" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=9;" edge="1" parent="1" source="ZD7YUeJZHVXYP3sHLRNM-5" target="ZD7YUeJZHVXYP3sHLRNM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-5" value="memesan menu&amp;nbsp;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="ZD7YUeJZHVXYP3sHLRNM-6" target="ZD7YUeJZHVXYP3sHLRNM-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-6" value="memeberikan nota pemesanan" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.22;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="100" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="1" source="ZD7YUeJZHVXYP3sHLRNM-11" target="ZD7YUeJZHVXYP3sHLRNM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-11" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;menyiapkan pesanan makanan dari pelanngan&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="235" y="245" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=9;" edge="1" parent="1" source="ZD7YUeJZHVXYP3sHLRNM-12" target="ZD7YUeJZHVXYP3sHLRNM-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-12" value="memberikan&lt;br&gt;&amp;nbsp;makanna" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="230" y="380" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=9;" edge="1" parent="1" source="ZD7YUeJZHVXYP3sHLRNM-21" target="ZD7YUeJZHVXYP3sHLRNM-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="500" />
+              <mxPoint x="380" y="346" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-21" value="menerima&lt;br&gt;makanan dan&lt;br&gt;melakukan&lt;br&gt;&amp;nbsp;pembayaran" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="55" y="470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=9;" edge="1" parent="1" source="ZD7YUeJZHVXYP3sHLRNM-22" target="ZD7YUeJZHVXYP3sHLRNM-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-22" value="nota" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="55" y="612" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-23" value="selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="693" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=9;" edge="1" parent="1" source="ZD7YUeJZHVXYP3sHLRNM-25" target="ZD7YUeJZHVXYP3sHLRNM-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-25" value="menerima pembayaran" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="420" y="307" width="100" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="ZD7YUeJZHVXYP3sHLRNM-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-26" value="memberikan nota" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="420" y="470" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-31" value="pelanggan&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="35" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=9;" edge="1" parent="1" source="ZD7YUeJZHVXYP3sHLRNM-31" target="ZD7YUeJZHVXYP3sHLRNM-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-33" value="pelayan" style="whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="210" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD7YUeJZHVXYP3sHLRNM-34" value="kasir" style="whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="410" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
