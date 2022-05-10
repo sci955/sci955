@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T15:51:07.277Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="_smuOgDHJ19vghvhNtVK" version="18.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-10T17:23:10.381Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="k-9nzGDLndBJpxaK6UoS" version="18.0.2" type="github" pages="3">
   <diagram id="ZdoyjoGDnas0Z9Y0Mtbr" name="Page-1">
     <mxGraphModel dx="191" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -181,6 +181,210 @@
         </mxCell>
         <mxCell id="CKtIFjhmuxbCoorLV63R-7" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;admin&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="180" y="73" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2P7Rq50bQFt1v-ffuwhZ" name="Page-3">
+    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="227" as="sourcePoint" />
+            <mxPoint x="150" y="227" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="84" y="233" as="targetPoint" />
+            <mxPoint x="349.7157287525381" y="241.2842712474619" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="253" />
+              <mxPoint x="84" y="253" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RDfmIDgncrfR-Ufd3mz_-2" target="RDfmIDgncrfR-Ufd3mz_-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="384" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-62" value="view data menu&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="RDfmIDgncrfR-Ufd3mz_-61">
+          <mxGeometry x="0.2405" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417.2842712474619" y="247.2842712474619" as="sourcePoint" />
+            <mxPoint x="575" y="229" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="575" y="247" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-65" value="view data menu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="RDfmIDgncrfR-Ufd3mz_-63">
+          <mxGeometry x="-0.3215" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="231" as="targetPoint" />
+            <mxPoint x="400" y="250.66060555964668" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="400" y="264" />
+              <mxPoint x="610" y="264" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-78" value="view data status meja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="RDfmIDgncrfR-Ufd3mz_-77">
+          <mxGeometry x="-0.2327" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RDfmIDgncrfR-Ufd3mz_-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="312" y="101" as="targetPoint" />
+            <mxPoint x="356" y="191" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="310" y="191" />
+              <mxPoint x="310" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-80" value="view data pemesanan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="RDfmIDgncrfR-Ufd3mz_-79">
+          <mxGeometry x="-0.0955" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-2" value="sistem informasi pemesanan cafe" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="344" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="1" source="RDfmIDgncrfR-Ufd3mz_-4" target="RDfmIDgncrfR-Ufd3mz_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-4" value="admin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-5" value="pelayan" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="533" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-7" value="pelanggan&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="344" y="339" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="RDfmIDgncrfR-Ufd3mz_-4" target="RDfmIDgncrfR-Ufd3mz_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-82" value="input data pemesanan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="388" y="121" as="sourcePoint" />
+            <mxPoint x="382" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="368" y="121" />
+              <mxPoint x="368" y="120" />
+              <mxPoint x="382" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-9" value="koki" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="330" y="81" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-13" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;input data menu&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="190" y="181" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-14" value="input data pembayaran&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="181" y="198" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-15" value="view data menu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="189" y="212" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-17" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;&lt;br/&gt;line-height:115%;font-family:&amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;&quot;&gt;View data status meja&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="180" y="246" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-19" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;&lt;br/&gt;line-height:115%;font-family:&amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;&quot;&gt;View data pembayaran&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="182" y="268" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="215" as="sourcePoint" />
+            <mxPoint x="330" y="215" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="215" />
+              <mxPoint x="200" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="201" as="sourcePoint" />
+            <mxPoint x="420" y="201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-29" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;&lt;br/&gt;line-height:115%;font-family:&amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;&quot;&gt;Imput data pemesanan&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="432" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="532" y="220" as="sourcePoint" />
+            <mxPoint x="422" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-34" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;&lt;br/&gt;line-height:115%;font-family:&amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;&quot;&gt;Imput data pemesanan&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="432" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;entryX=0.325;entryY=1.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RDfmIDgncrfR-Ufd3mz_-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="240" as="targetPoint" />
+            <mxPoint x="355" y="252" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="355" y="264" />
+              <mxPoint x="69" y="264" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-58" value="view datab status pemesanan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="RDfmIDgncrfR-Ufd3mz_-52">
+          <mxGeometry x="0.2025" y="3" relative="1" as="geometry">
+            <mxPoint x="55" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="RDfmIDgncrfR-Ufd3mz_-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="240" as="targetPoint" />
+            <mxPoint x="365" y="262" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="365" y="274" />
+              <mxPoint x="60" y="274" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="51" y="228" as="targetPoint" />
+            <mxPoint x="370" y="258" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="370" y="258" />
+              <mxPoint x="370" y="288" />
+              <mxPoint x="51" y="288" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=8;" edge="1" parent="1" source="RDfmIDgncrfR-Ufd3mz_-2" target="RDfmIDgncrfR-Ufd3mz_-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="428.2842712474619" y="254.2842712474619" as="sourcePoint" />
+            <mxPoint x="586" y="236" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="412" y="254" />
+              <mxPoint x="586" y="254" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDfmIDgncrfR-Ufd3mz_-68" value="view status pemesanan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="RDfmIDgncrfR-Ufd3mz_-67">
+          <mxGeometry x="-0.3215" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
